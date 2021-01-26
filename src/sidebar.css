@@ -1,0 +1,37 @@
+#sidebar-div {
+  height: 850px;
+  font-family: "Roboto", sans-serif;
+  width: 270px;
+  margin-top: 62px;
+  border-radius: 0px 0px 10px 0px;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  background-color: rgb(69, 54, 155);
+  box-shadow: inset 5px -50px 80px 1px rgba(0, 0, 0, 0.5);
+  overflow-y: scroll;
+}
+
+#sidebar-div::-webkit-scrollbar {
+  width: 12px;
+}
+
+#sidebar-div::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 0px 0px 40px 0px;
+}
+
+#sidebar-div::-webkit-scrollbar-thumb {
+  background: rgb(172, 172, 0);
+  border-radius: 0px 0px 40px 0px;
+}
+
+#sidebar-div::-webkit-scrollbar-thumb:hover {
+  background: rgb(223, 223, 0);
+}
+
+#main {
+  position: fixed;
+  top: 0;
+}
