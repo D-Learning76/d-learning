@@ -2,11 +2,12 @@ import React from "react";
 import { Cards } from "./Cards";
 import { Motto } from "./Motto";
 import FadeIn from "react-fade-in";
+import "./homepage.css"
 export class Homepage extends React.Component {
   render() {
     return (
-      <div>
-        <FadeIn>
+      <div id = 'content'>
+        
           <Motto />
           <Cards
             name="Despre noi"
@@ -26,7 +27,7 @@ export class Homepage extends React.Component {
            electronic typesetting, remaining essentially unchanged. It was popularised in the
            "
           />
-        </FadeIn>
+        
       </div>
     );
   }

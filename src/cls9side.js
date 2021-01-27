@@ -8,75 +8,20 @@ import { Cls9Lectie } from "./cls9lectie";
 export class Cls9 extends React.Component {
   render() {
     return (
-      <FadeIn>
+      <div id="cls9">
         <Sidebar>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
-          <h1>shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
+          <h1 id="titlu_capitol">
+            Capitolul 1 {""}
+            <h2 id="lectii_capitol">Lectia 1</h2>
+            <h2 id="lectii_capitol">Lectia 1</h2>
+            <h2 id="lectii_capitol">Lectia 1</h2>
+          </h1>
+          <h1 id="titlu_capitol">Capitolul 1</h1>
         </Sidebar>
         <Cls9Lectie>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
-          <h1>nuigisa</h1>
+          <h2 id="titlu_lectie"> Baltagul </h2>
         </Cls9Lectie>
-      </FadeIn>
+      </div>
     );
   }
 }

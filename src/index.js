@@ -4,7 +4,7 @@ import { Header } from "./Header";
 import { Homepage } from "./Homepage";
 import { Footer } from "./Footer";
 import { ListaMaterii } from "./lista_materii";
-import { Cls9 } from "./cls9side";
+import Cls9  from "./cls9";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 ReactDOM.render(

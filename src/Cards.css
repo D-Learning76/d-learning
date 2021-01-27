@@ -1,17 +1,15 @@
 .Cards {
   display: inline-flex;
   flex-direction: row;
-  margin-bottom: 10vw;
-  position: relative;
-  top: 10vw;
+
+  margin-top: 12vw;
 }
 #box {
   background-color: aliceblue;
   height: 20vw;
   align-items: center;
   width: 20vw;
-  position: relative;
-  left: 5vw;
+  margin-left: 5vw;
   border-radius: 50px;
 }
 
@@ -20,19 +18,19 @@
   font-size: 1.8vw;
   font-family: "Roboto", sans-serif;
   text-align: center;
-  position: relative;
-  top: 2vw;
+  height: auto;
+
   width: 70vw;
-  margin-left: 7vw;
-  margin-top: 2vw;
+  margin-left: 2.5vw;
+  margin-top: 50px;
 }
 
 #center {
   font-family: "Lobster", cursive;
   text-align: center;
   font-size: 3vw;
-  position: relative;
-  top: 8vw;
+  line-height: 20vw;
+  margin: 0px;
 }
 @media only screen and (max-width: 700px) {
   .Cards {
@@ -43,14 +41,10 @@
     width: 80vw;
     background-color: white;
     border-radius: 50px;
-    position: relative;
-    top: 35vw;
-    left: 9vw;
-    margin: 0;
+    margin-left: 9vw;
   }
   #center {
-    position: relative;
-    top: 18vw;
+    line-height: 50vw;
     font-size: 8vw;
   }
   #text {
@@ -60,7 +54,7 @@
     text-align: center;
     margin-right: 5vw;
     margin-left: 5vw;
-    position: relative;
-    top: 35vw;
+    margin-top: 5vw;
+    margin-bottom: 0px;
   }
 }

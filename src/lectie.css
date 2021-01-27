@@ -1,0 +1,20 @@
+#titlu_lectie{
+    text-align: center;
+    font-size:70px;
+    font-family: "Lobster" , cursive;
+}
+ #definitie{
+     font-family: "Roboto" , sans-serif;
+    font-size:25px;
+    margin-top:40px;
+    margin-left:10px;
+ }
+
+ #definitie > #strong {
+  margin-left:20px;
+ }
+
+ #coloare{
+     background-color: rgb(255, 109, 109);
+     border-radius: 20px;
+ }

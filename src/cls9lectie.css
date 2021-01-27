@@ -3,7 +3,34 @@
   border-radius: 20px;
   margin-left: 280px;
   margin-right: 10px;
-  width: auto;
-  height: 100%;
+  width: auto !important;
+  height: auto !important;
+  min-height: 75vw;
   background-color: white;
+
+  transition: 1200ms ease;
+}
+
+#titlu_lectie {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Lobster", cursive;
+}
+
+@media only screen and (max-width: 1000px) {
+  #lectia {
+    margin-left: 210px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #lectia {
+    margin-left: 160px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  #lectia {
+    margin-left: 10px;
+  }
 }

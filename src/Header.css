@@ -2,12 +2,15 @@
   top: -1px;
   width: 100vw !important;
   position: fixed;
-  z-index: 2;
+  z-index: 4;
 }
 
+.dropdown-menu.show {
+  z-index: 20 !important;
+}
 .bg-dark {
   width: 100vw !important;
-  background-color: rgb(99, 81, 206) !important;
+  background-color: #009de0 !important; /*  rgb(99, 81, 206) !important;*/
 }
 
 #title {

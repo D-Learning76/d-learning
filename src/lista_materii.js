@@ -18,7 +18,7 @@ import FadeIn from "react-fade-in";
 export class ListaMaterii extends React.Component {
   render() {
     return (
-      <FadeIn>
+      
         <div id="lista-materii">
           <Subject
             title="Matematică"
@@ -41,7 +41,7 @@ export class ListaMaterii extends React.Component {
           />
           <Subject title="Lecții indisponibile" img={tic} alt="TIC" />
         </div>
-      </FadeIn>
+      
     );
   }
 }
