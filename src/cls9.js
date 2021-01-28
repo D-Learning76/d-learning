@@ -4,10 +4,7 @@ import "./sidebar.css";
 import FadeIn from "react-fade-in";
 import "./template.css";
 import { Cls9Lectie } from "./cls9lectie";
-import LectieImg from "./lectieImg.jpg";
 import "./lectie.css";
-import imagine from "./imaginuta.png";
-import { Prev } from "react-bootstrap/esm/PageItem";
 import { ProSidebar, Menu, MenuItem, SubMenu } from "react-pro-sidebar";
 import "react-pro-sidebar/dist/css/styles.css";
 

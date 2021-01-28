@@ -1,6 +1,6 @@
 import React from "react";
 import "./Motto.css";
-import photo from "./placeholder.jpg";
+import photo from "./Images/placeholder.jpg";
 
 export class Motto extends React.Component {
   render() {

@@ -1,7 +1,7 @@
 import React from "react";
 import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
 import "./Footer.css";
-import discord from "./discord.png";
+import discord from "./Images/discord.png";
 
 export class Footer extends React.Component {
   render() {

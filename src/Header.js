@@ -2,7 +2,7 @@ import React from "react";
 import "./Header.css";
 import Navbar from "react-bootstrap/Navbar";
 import { Nav, NavDropdown } from "react-bootstrap";
-import discord from "./discord.png";
+import discord from "./Images/discord.png";
 import { Link } from "react-router-dom";
 
 function dezvoltare() {
