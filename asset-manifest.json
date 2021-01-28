@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/d-learning/static/css/main.00840bb2.chunk.css",
-    "main.js": "/d-learning/static/js/main.42f0d4c8.chunk.js",
-    "main.js.map": "/d-learning/static/js/main.42f0d4c8.chunk.js.map",
+    "main.css": "/d-learning/static/css/main.028461e7.chunk.css",
+    "main.js": "/d-learning/static/js/main.bc80858b.chunk.js",
+    "main.js.map": "/d-learning/static/js/main.bc80858b.chunk.js.map",
     "runtime-main.js": "/d-learning/static/js/runtime-main.810ebf5d.js",
     "runtime-main.js.map": "/d-learning/static/js/runtime-main.810ebf5d.js.map",
     "static/css/2.1d146257.chunk.css": "/d-learning/static/css/2.1d146257.chunk.css",
-    "static/js/2.def3fe4d.chunk.js": "/d-learning/static/js/2.def3fe4d.chunk.js",
-    "static/js/2.def3fe4d.chunk.js.map": "/d-learning/static/js/2.def3fe4d.chunk.js.map",
+    "static/js/2.48b1e202.chunk.js": "/d-learning/static/js/2.48b1e202.chunk.js",
+    "static/js/2.48b1e202.chunk.js.map": "/d-learning/static/js/2.48b1e202.chunk.js.map",
     "index.html": "/d-learning/index.html",
     "static/css/2.1d146257.chunk.css.map": "/d-learning/static/css/2.1d146257.chunk.css.map",
-    "static/css/main.00840bb2.chunk.css.map": "/d-learning/static/css/main.00840bb2.chunk.css.map",
-    "static/js/2.def3fe4d.chunk.js.LICENSE.txt": "/d-learning/static/js/2.def3fe4d.chunk.js.LICENSE.txt",
+    "static/css/main.028461e7.chunk.css.map": "/d-learning/static/css/main.028461e7.chunk.css.map",
+    "static/js/2.48b1e202.chunk.js.LICENSE.txt": "/d-learning/static/js/2.48b1e202.chunk.js.LICENSE.txt",
     "static/media/TIC.ff691e81.jpg": "/d-learning/static/media/TIC.ff691e81.jpg",
     "static/media/biologie.a5a208d8.jpg": "/d-learning/static/media/biologie.a5a208d8.jpg",
     "static/media/chimie.5cfc323b.jpg": "/d-learning/static/media/chimie.5cfc323b.jpg",
@@ -20,8 +20,6 @@
     "static/media/fizica.a7a7e362.jpg": "/d-learning/static/media/fizica.a7a7e362.jpg",
     "static/media/franceza.b7fc0482.jpg": "/d-learning/static/media/franceza.b7fc0482.jpg",
     "static/media/Motto.css": "/d-learning/static/media/fullpag.c588ef0b.jpg",
-    "static/media/imaginuta.98852ee6.png": "/d-learning/static/media/imaginuta.98852ee6.png",
-    "static/media/lectieImg.adad1712.jpg": "/d-learning/static/media/lectieImg.adad1712.jpg",
     "static/media/mate.1275724d.jpg": "/d-learning/static/media/mate.1275724d.jpg",
     "static/media/placeholder.49213a01.jpg": "/d-learning/static/media/placeholder.49213a01.jpg",
     "static/media/programare.b3dfb230.jpg": "/d-learning/static/media/programare.b3dfb230.jpg",
@@ -30,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.810ebf5d.js",
     "static/css/2.1d146257.chunk.css",
-    "static/js/2.def3fe4d.chunk.js",
-    "static/css/main.00840bb2.chunk.css",
-    "static/js/main.42f0d4c8.chunk.js"
+    "static/js/2.48b1e202.chunk.js",
+    "static/css/main.028461e7.chunk.css",
+    "static/js/main.bc80858b.chunk.js"
   ]
 }
