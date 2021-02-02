@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./cls9lectie.css";
 
 function Cls9Lectie(props) {

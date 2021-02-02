@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import { Subject } from "./subject";
 import "./subject.css";
 import mate from "./Images/mate.jpg";
@@ -11,7 +10,6 @@ import franceza from "./Images/franceza.jpg";
 import biologie from "./Images/biologie.jpg";
 import tic from "./Images/TIC.jpg";
 import programare from "./Images/programare.jpg";
-import FadeIn from "react-fade-in";
 
 //size of the image : 540x300
 

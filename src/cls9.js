@@ -1,20 +1,13 @@
-import React, { useState } from "react";
+import React from "react";
 import { Sidebar } from "./sidebar";
 import "./sidebar.css";
-import FadeIn from "react-fade-in";
 import "./template.css";
 import { Cls9Lectie } from "./cls9lectie";
 import "./lectie.css";
-import { ProSidebar, Menu, MenuItem, SubMenu } from "react-pro-sidebar";
+import { Menu, MenuItem, SubMenu } from "react-pro-sidebar";
 import "react-pro-sidebar/dist/css/styles.css";
 
 function Cls9() {
-  const [openCapitol, setOpenCapitol] = useState(false);
-
-  function capitol() {
-    setOpenCapitol(!openCapitol);
-  }
-
   return (
     <div id="cls9">
       <Sidebar>

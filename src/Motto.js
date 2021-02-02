@@ -1,6 +1,6 @@
 import React from "react";
 import "./Motto.css";
-import photo from "./Images/placeholder.jpg";
+import logo from "./Images/logo.png";
 
 export class Motto extends React.Component {
   render() {
@@ -14,7 +14,7 @@ export class Motto extends React.Component {
             -Orice ai face, fă-o din placere-
           </h3>
         </div>
-        <img id="image" src={photo} alt="creatorii" />
+        <img id="image" src={logo} alt="creatorii" />
       </div>
     );
   }

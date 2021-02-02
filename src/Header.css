@@ -13,16 +13,20 @@
   background-color: #009de0 !important; /*  rgb(99, 81, 206) !important;*/
 }
 
+.nav-link {
+  font-family: "Roboto", sans-serif !important;
+}
+
 #title {
   font-size: 25px;
   font-family: "Lobster", cursive;
-  opacity: 85%;
+  opacity: 0.85;
   color: white;
   text-decoration: none;
 }
 
 #title:hover {
-  opacity: 100%;
+  opacity: 1;
 }
 .mr-auto,
 .mx-auto {
@@ -36,7 +40,7 @@
 #discord-logo {
   height: 28px;
   width: 28px;
-  opacity: 60%;
+  opacity: 0.6;
 
   transition: 100ms ease;
 }
@@ -63,7 +67,7 @@
 }
 
 #discord-logo:hover {
-  opacity: 100%;
+  opacity: 1;
   cursor: pointer;
 }
 #navbar {

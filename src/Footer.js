@@ -19,7 +19,7 @@ export class Footer extends React.Component {
                 lg="5"
                 className="text-center text-md-left mb-4 mb-md-0"
               >
-                <h6 className="mb-0 white-text" id="social-media">
+                <h6 className="mb-0 white-text" id="dis-text">
                   Alătură-te server-ului nostru de discord :{" "}
                   <img id="discord-logo" src={discord} alt="discord" />
                 </h6>

@@ -4,14 +4,15 @@ import { Header } from "./Header";
 import { Homepage } from "./Homepage";
 import { Footer } from "./Footer";
 import { ListaMaterii } from "./lista_materii";
-import Cls9  from "./cls9";
+import Cls9 from "./cls9";
+
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 ReactDOM.render(
   <Router>
     <Header />
     <Switch>
-      <Route path="/" exact component={Homepage} />
+      <Route path="/d-learning" exact component={Homepage} />
       <Route path="/materii" component={ListaMaterii} />
       <Route path="/lectie" component={Cls9} />
     </Switch>
