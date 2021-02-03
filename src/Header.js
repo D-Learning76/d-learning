@@ -21,7 +21,7 @@ export class Header extends React.Component {
         >
           <Navbar.Brand id="title">
             <Link
-              to="/"
+              to="/d-learning"
               id="title"
               onClick={() => {
                 window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
