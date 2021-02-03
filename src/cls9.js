@@ -15,10 +15,57 @@ function Cls9() {
       <div id="cls9">
         <Sidebar>
           <Menu iconShape="square">
-            <MenuItem>Dashboard</MenuItem>
-            <SubMenu title="Components">
-              <MenuItem>Component 1</MenuItem>
-              <MenuItem>Component 2</MenuItem>
+            <MenuItem id="sidebar_title">Matematica - Cls 9</MenuItem>
+            <SubMenu title="Algebra">
+              <SubMenu title="Multimi">
+                <MenuItem>Notiunea de multime</MenuItem>
+                <MenuItem>Operatii cu multimi</MenuItem>
+                <MenuItem>Submultimi</MenuItem>
+                <MenuItem>Exercitii</MenuItem>
+                <MenuItem>NZQR</MenuItem>
+              </SubMenu>
+              <SubMenu title="Logica Matematica">
+                <MenuItem>Ce este logica matematica?</MenuItem>
+                <MenuItem> Rationamente logice</MenuItem>
+                <MenuItem>Rationamentul deductiv 1</MenuItem>
+                <MenuItem>Rationamentul deductiv 2</MenuItem>
+                <MenuItem> Rationamentul inductiv 1</MenuItem>
+                <MenuItem>Rationamentul inductiv 2</MenuItem>
+                <MenuItem> Propozitii conditionale</MenuItem>
+                <MenuItem>Exercitii</MenuItem>
+              </SubMenu>
+              <SubMenu title="Siruri si Progresii">
+                <MenuItem>Definitia unui Sir</MenuItem>
+                <MenuItem> Progresii Aritmetice</MenuItem>
+                <MenuItem>Exercitii</MenuItem>
+                <MenuItem> Elementul n dintr-o progresie aritmetica</MenuItem>
+                <MenuItem>Exercitii</MenuItem>
+                <MenuItem>Suma primilor n termeni</MenuItem>
+                <MenuItem>Exercitii</MenuItem>
+                <MenuItem> Progresii aritmetice</MenuItem>
+                <MenuItem>Exercitii</MenuItem>
+                <MenuItem> Suma primilor n termeni</MenuItem>
+                <MenuItem> Exemple</MenuItem>
+              </SubMenu>
+            </SubMenu>
+            <SubMenu title="Geometrie">
+              <SubMenu title="Vectori">
+                <MenuItem>Vectori in plan</MenuItem>
+                <MenuItem>Componentele unui vector</MenuItem>
+                <MenuItem>Adunarea a doi vectori</MenuItem>
+                <MenuItem>Operatii cu vectori</MenuItem>
+                <MenuItem>Diferenta dintre 2 vectori</MenuItem>
+                <MenuItem>Inmultirea a doi vectori</MenuItem>
+                <MenuItem>Inmultirea cu un scalar</MenuItem>
+              </SubMenu>
+
+              <SubMenu title="Trigonometrie">
+                <MenuItem>Introducerea</MenuItem>
+                <MenuItem>Functiile trigonometrice de baza</MenuItem>
+                <MenuItem>Exercitii</MenuItem>
+                <MenuItem>Radieni si Grade</MenuItem>
+                <MenuItem>Din grade in radieni si invers</MenuItem>
+              </SubMenu>
             </SubMenu>
           </Menu>
         </Sidebar>{" "}

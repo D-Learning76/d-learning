@@ -16,16 +16,26 @@
   display: inline-flex;
 }
 
-.pro-menu.shaped.square {
+.pro-item-content {
+  overflow: revert !important;
+  text-overflow: clip !important;
+  white-space: normal !important;
+}
+
+#sidebar_title {
+  text-align: center;
+}
+
+.pro-sidebar-layout {
   background-color: #009de0;
   color: white;
-  box-shadow: inset 5px 5px 50px black;
+  max-height: 600px;
 }
 
 .react-slidedown.pro-inner-list-item {
-  background-color: #009de0 !important;
-  box-shadow: inset 5px 5px 50px black;
+  background-color: #0176a9 !important;
   color: white;
+  padding: 0px 0px 0px 10px !important;
 }
 
 @media only screen and (max-width: 1000px) {
